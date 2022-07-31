@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Anim.qml</file>
+        <file>brakeHighSpeed.wav</file>
+        <file>brakeLowSpeed.wav</file>
+        <file>Bremse.png</file>
+        <file>Fahren.wav</file>
+        <file>Fahrenohnegasgeben.wav</file>
+        <file>needle3.png</file>
+        <file>RearView.gif</file>
+        <file>Road.gif</file>
+        <file>speedometer.png</file>
+        <file>start.wav</file>
+        <file>GasImage.png</file>
+        <file>Reverse.wav</file>
+        <file>fuel-icon.png</file>
+        <file>RoadBlur.gif</file>
+    </qresource>
+</RCC>
